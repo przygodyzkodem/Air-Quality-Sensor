@@ -75,6 +75,8 @@ void printValues() {
  * 
  * Based on PMS Library by Marcin Kacki 
  * and code examples from https://github.com/fu-hsi/PMS
+ * 
+ * PMS 7003 Pinout: https://www.espruino.com/refimages/PMS7003_PMS7003_pins.gif
  * Wiring on NodeMCU (for PMS7003 module):
  * 
  *          PMS7003 <-> NodeMCU
